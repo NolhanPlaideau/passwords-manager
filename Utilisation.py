@@ -1,7 +1,7 @@
 import os
-from Gestionnaire_de_mot_de_passe.Pass import authentication
+from Pass import authentication
 from new_mdp import create_password
-from Gestionnaire_de_mot_de_passe.Pass import setup_password
+from Pass import setup_password
 
 DATA_FILE = "données.txt"
 
